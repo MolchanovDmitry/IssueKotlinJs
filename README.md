@@ -2,6 +2,6 @@
 
 Run sandbox:
 ```
-./runJsLogger.sh.
+./runJsLogger.sh
 ```
 
