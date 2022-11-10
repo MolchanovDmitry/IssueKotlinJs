@@ -1,3 +1,7 @@
-# IssueKotlinJs
+# Kotlin-typescript sandbox 
 
-To reproduce the ussue run runJsLogger.sh.
+Run sandbox:
+```
+./runJsLogger.sh.
+```
+
