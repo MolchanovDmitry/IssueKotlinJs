@@ -3,8 +3,7 @@ package com.example.log
 /**
  * Интерфейс назначения лога
  */
-@JsExport
-interface LogDestination {
+expect interface LogDestination {
 
     fun send(message: String, tag: String = "", logLevel: LogLevel = LogLevel.INFO)
 }

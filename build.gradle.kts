@@ -1,7 +1,7 @@
 plugins {
     //https://github.com/JetBrains/compose-jb/blob/master/VERSIONING.md#kotlin-compatibility
-    kotlin("multiplatform") version "1.7.10"
-    id("org.jetbrains.compose") version "1.2.0"
+    kotlin("multiplatform") version "1.7.20"
+    id("org.jetbrains.compose") version "1.2.1"
 }
 
 group = "me.user"
